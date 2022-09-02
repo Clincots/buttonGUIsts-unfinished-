@@ -1,5 +1,4 @@
 from kivy.app import App
-from kivy.uix.widget import Widget
 from kivy.uix.floatlayout import FloatLayout
 from kivy.config import Config
 Config.set('input', 'mouse', 'mouse,multitouch_on_demand')
